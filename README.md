@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crl7-key&theme=gruvbox&layout=compact)]()
+<!--
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+  <br><br>
+  <samp>
+    <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
+  </samp>
+</p>
+-->
+
+<details>
+  <summary><b>:telescope: 2020 goal</b></summary>
+</details>
