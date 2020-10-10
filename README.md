@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm crl7-key, you can also call me crl7 😄 👋
 
 <!--
 **crl7-key/crl7-key** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,6 +24,12 @@ Here are some ideas to get you started:
   </samp>
 </p>
 -->
+
+- 👨  26yo
+- 📷  趣味で(̶H̶e̶r̶o̶)̶ Photographer (*•̀ㅂ•́)و
+- ❤️  Anime, League of Legend, Counter-Strike: Global Offensive , Music
+- 🇨🇳 🇨🇦 🇺🇸 🇯🇵 🇩🇪  At China now 
+- ☀️  Always Sunshine
 
 <details>
   <summary><b>:telescope: 2020 goal</b></summary>
