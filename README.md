@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 - ❤️  Anime, League of Legend, Counter-Strike: Global Offensive , Music
 - 🇨🇳 🇨🇦 🇺🇸 🇯🇵 🇩🇪  At China now 
 - ☀️  Always Sunshine
+- 🌱 I’m currently using `C/C++`、`Golang`、`Python`
 
 ### ⚡ Technologies
 
