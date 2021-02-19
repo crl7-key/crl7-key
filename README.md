@@ -32,7 +32,7 @@ Wish you a good-looking profile README!
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:itgoyo"></a>
  </p>
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crl7-key&theme=gruvbox&layout=compact&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crl7-key&theme=gruvbox&layout=compact&show_icons=true">](https://metrics.lecoq.io/crl7-key?template=classic)
 
 - 👨  26yo
 - 📷  趣味で(̶H̶e̶r̶o̶)̶ Photographer (*•̀ㅂ•́)و
