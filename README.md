@@ -1,4 +1,12 @@
-### Hi I'm crl7-key, you can also call me crl7 😄 👋
+<h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />  Hi I'm crl7-key, you can also call me crl7 😄 👋 </h2>
+
+
+
+
+
+
+
+
 <!--
 
 Thank you if you like this profile README!
@@ -31,6 +39,7 @@ Wish you a good-looking profile README!
  <p>
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:itgoyo"></a>
  </p>
+<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crl7-key&theme=gruvbox&layout=compact&show_icons=true">](https://metrics.lecoq.io/crl7-key?template=classic)
 
@@ -62,3 +71,7 @@ Wish you a good-looking profile README!
 <details>
   <summary><b><img height="40" src="https://github.com/crl7-key/crl7-key/blob/master/assert/kyubey.gif"> 2021 goal</b></summary>
 </details>
+
+
+
+<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
