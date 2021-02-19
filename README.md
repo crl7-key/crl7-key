@@ -61,5 +61,5 @@ Wish you a good-looking profile README!
 
 
 <details>
-  <summary><b><img height="40" src="https://raw.githubusercontent.com/crl7-key/crl7-keymaster/assets/kyubey.gif"/> 2021 goal</b></summary>
+  <summary><b><img height="40" src="https://github.com/crl7-key/crl7-key/blob/master/assert/kyubey.gif"> 2021 goal</b></summary>
 </details>
