@@ -1,36 +1,37 @@
 ### Hi I'm crl7-key, you can also call me crl7 😄 👋
-
 <!--
-<p align="center">
-  <img src="https://github.com/crl7-key/crl7-key/blob/main/main.gif?raw=true" width="27px">
-  <br><br>
-</p>
+
+Thank you if you like this profile README!
+
+BUT, please DO NOT copy this and create your profile based on it.
+
+You can use it as a reference, and copy a part of it, but DO NOT copy
+all of this and create your profile based on it.
+
+It is very common that you forget to change some information and leave
+mine in your profile. This has happened too many times.
+
+And, this profile README is auto-updated by GitHub Actions, you can read
+[the official documentation](https://docs.github.com/actions) to learn
+how to use it.
+
+Only when you know what you are copying should you paste it. So, again,
+please DO NOT copy this and create your profile based on it.
+
+What's more, you can find other awesome profile READMEs at
+https://github.com/abhisheknaiidu/awesome-github-profile-readme. There
+could be a profile README that fits you better than this one.
+
+Wish you a good-looking profile README!
+
+                                   —— ouuan (https://github.com/crl7-key)
+
 -->
 
-<!--
-**crl7-key/crl7-key** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <p>
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:itgoyo"></a>
+ </p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crl7-key&theme=gruvbox&layout=compact)]()
-<!--
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
-  <br><br>
-  <samp>
-    <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
-  </samp>
-</p>
--->
 
 - 👨  26yo
 - 📷  趣味で(̶H̶e̶r̶o̶)̶ Photographer (*•̀ㅂ•́)و
@@ -38,6 +39,10 @@ Here are some ideas to get you started:
 - 🇨🇳 🇨🇦 🇺🇸 🇯🇵 🇩🇪  At China now 
 - ☀️  Always Sunshine
 - 🌱 I’m currently using `C/C++`、`Golang`、`Python`
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crl7-key&theme=gruvbox&layout=compact)]()
+
 
 ### ⚡ Technologies
 
@@ -54,6 +59,7 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
+
 <details>
-  <summary><b>:telescope: 2020 goal</b></summary>
+  <summary><b><img height="40" src="https://raw.githubusercontent.com/crl7-key/crl7-keymaster/assets/kyubey.gif"/> 2021 goal</b></summary>
 </details>
