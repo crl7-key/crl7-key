@@ -1,4 +1,4 @@
-<h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />  Hi I'm crl7-key, you can also call me crl7 😄 👋 </h2>
+<h2>  Hi I'm crl7-key, you can also call me crl7 😄 👋 </h2>
 
 
 
@@ -74,4 +74,3 @@ Wish you a good-looking profile README!
 
 
 
-<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
